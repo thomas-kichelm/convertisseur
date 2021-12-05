@@ -101,5 +101,4 @@ améliorations possible :
 - améliorer la modularisation et la lisibilité générale du script
 - utiliser getopts pour la gestion des options
 
-[f]: #ui "zrfzfzfr"
-[frz]: ## 1 : notice rédigée à l’attention des utilisateurs : "ou"
+
