@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# © THOMAS KICHELM & MATTHIEU ALCACERA (CC BY-NC 4.0)
+# © THOMAS KICHELM (CC BY-NC 4.0)
 set -o errexit # Exit if command failed.
 set -o pipefail # Exit if pipe failed.
 set -o nounset # Exit if variable not set.
@@ -35,7 +35,7 @@ welcome(){
                                                                                            
                                                                                            "
 
-echo -e "© THOMAS KICHELM & MATTHIEU ALCACERA (CC BY-NC 4.0)\n $reset"
+echo -e "© THOMAS KICHELM(CC BY-NC 4.0)\n $reset"
 }
 usage(){
 
